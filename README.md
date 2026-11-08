@@ -15,7 +15,7 @@
   <a href="https://www.codechef.com/users/srmsci_68"><img src="https://img.shields.io/badge/CodeChef-srmsci__68-4a1fa0?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
 </p>
 
-<p align="center">CSE student · UI/UX · Full-Stack · Machine Learning · Chennai</p>
+<p align="center">CSE Graduate · UI/UX · Full-Stack · Machine Learning · Chennai</p>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
