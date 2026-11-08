@@ -2,7 +2,7 @@
 <a href="https://poovarasan-arulganesh.github.io/dashboard">
   <img src="assets/dashboard.png" alt="Poovarasan A's interactive GitHub dashboard" width="100%">
 </a>
-<img src="assets/catrun.gif" alt="Running cat" width="300" /> </p> <div align="center">
+<p align="center"><img src="assets/catrun.gif" alt="Running cat" width="300" /> </p> <div align="center">
 
 CSE student · UI/UX · Full-Stack · Machine Learning · Chennai
 
