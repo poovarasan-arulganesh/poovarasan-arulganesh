@@ -19,7 +19,7 @@
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-<h2 align="center">Featured Projects</h2>
+<p align="center"><img src="assets/title-projects.svg" alt="Featured Projects" width="440"></p>
 
 <p align="center">
   <a href="https://github.com/poovarasan-arulganesh/YOLO-V5-Cardiomegely-Detection"><img src="assets/card-cardiomegaly.svg" width="32%" alt="Cardiomegaly Detection"></a>
@@ -34,7 +34,7 @@
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-<h2 align="center">Interactive Dashboard</h2>
+<p align="center"><img src="assets/title-dashboard.svg" alt="Interactive Dashboard" width="480"></p>
 
 <p align="center">
   <a href="https://poovarasan-arulganesh.github.io/dashboard">
@@ -44,7 +44,7 @@
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-<h2 align="center">Tech Stack</h2>
+<p align="center"><img src="assets/title-stack.svg" alt="Tech Stack" width="340"></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,figma&theme=light" alt="HTML, CSS, JavaScript, Python, Git, GitHub, Figma">
@@ -52,7 +52,7 @@
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-<h2 align="center">GitHub Stats</h2>
+<p align="center"><img src="assets/title-stats.svg" alt="GitHub Stats" width="380"></p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=poovarasan-arulganesh&hide_border=true&background=1c1238&ring=a78bfa&fire=f0abfc&currStreakLabel=c4b5fd&sideLabels=e9e1ff&currStreakNum=ffffff&sideNums=ffffff&dates=a79bd6&border_radius=16" alt="GitHub streak stats" height="165">
