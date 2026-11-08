@@ -1,10 +1,14 @@
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm poovarasan A</h1>
+
+
+<img src="assets/catrun.gif" alt="Banner" width="100%" />
+
 <div align="center">
 
 <a href="https://poovarasan-arulganesh.github.io/dashboard">
   <img src="assets/dashboard.png" alt="Poovarasan A's interactive GitHub dashboard" width="100%">
 </a>
 
-### Hi, I'm Poovarasan A
 CSE student · UI/UX · Full-Stack · Machine Learning · Chennai
 
 [**Live dashboard**](https://poovarasan-arulganesh.github.io/dashboard) · [Portfolio](https://pa1720.github.io/poovarasan-portfolio/) · [LinkedIn](https://www.linkedin.com/in/poovarasan-arulganesh)
