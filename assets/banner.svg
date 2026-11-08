@@ -9,7 +9,7 @@
 .fl{animation:fl 7s ease-in-out infinite}@keyframes fl{50%{transform:translateY(-16px)}}
 .ring{transform-origin:130px 150px;animation:rg 16s linear infinite}@keyframes rg{to{transform:rotate(360deg)}}
 .pulse{transform-origin:130px 150px;animation:pl 4s ease-in-out infinite}@keyframes pl{50%{transform:scale(1.18);opacity:.6}}
-.role{opacity:0;animation:role 10s infinite}
+.role{opacity:0;animation:role 9s infinite}
 @keyframes role{0%{opacity:0;transform:translateY(10px)}6%,27%{opacity:1;transform:translateY(0)}33%,100%{opacity:0;transform:translateY(-10px)}}
 .nm{animation:in 1.2s ease-out both}@keyframes in{from{opacity:0;transform:translateX(-24px)}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}.r0{opacity:1}}
