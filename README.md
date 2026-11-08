@@ -4,7 +4,7 @@
 </a>
 <p align="center"> <a href="https://poovarasan-arulganesh.github.io/personalwebsite/"> <img src="assets/catrun.gif" alt="Running cat. Click to open my portfolio." width="300" /> </a> </p> <div align="center">
 
-CSE student · UI/UX · Full-Stack · Machine Learning · Chennai
+CSE GRADUATE · UI/UX · Full-Stack · Machine Learning · Chennai
 
 [**Live dashboard**](https://poovarasan-arulganesh.github.io/dashboard) · [Portfolio](https://poovarasan-arulganesh.github.io/personalwebsite/) · [LinkedIn](https://www.linkedin.com/in/poovarasan-arulganesh)
 
